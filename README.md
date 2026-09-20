@@ -7,8 +7,8 @@
 **Build weird. Break rules.**
 
 [jmomakesstuff.com](https://www.jmomakesstuff.com/)
- · [YouTube](https://www.youtube.com/@JMOMakesStuff)
  · [Instagram](https://www.instagram.com/jmomakesstuff/)
+ · [YouTube](https://www.youtube.com/@JMOMakesStuff)
  · [Facebook](https://www.facebook.com/profile.php?id=61590305835202)
 
 </div>
@@ -39,11 +39,16 @@ What I spend my time on:
 - **Things that are actually physical.** 3D printing, a 100W laser cutter,
   ESP32s, too many LEDs, and the occasional cursed gadget.
 
-## What's here
+## Where the builds actually show up
 
-Public code is starting to land on this account. Most of what I build shows up
-first at [jmomakesstuff.com](https://www.jmomakesstuff.com/) and on
+**[Instagram](https://www.instagram.com/jmomakesstuff/) is the best place to
+follow along.** That's where builds land first, usually while they're still
+covered in sawdust and not entirely working.
+
+The bigger ones get written up at
+[jmomakesstuff.com](https://www.jmomakesstuff.com/) and filmed for
 [YouTube](https://www.youtube.com/@JMOMakesStuff), where there's room for the
 process, the failures, and the parts that didn't work the first four times.
 
-If it looks quiet here, it isn't. Most of it is just still in the garage.
+Public code is starting to land on this account. If it looks quiet here, it
+isn't. Most of it is just still in the garage.
