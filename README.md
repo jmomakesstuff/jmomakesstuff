@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="crow.png" alt="The JMO crow: a crow with a circuit-board wing" width="150">
+<a href="https://www.jmomakesstuff.com/">
+  <img src="crow.png" alt="The JMO crow: a crow with a circuit-board wing" width="150">
+</a>
 
 # JMO
 
