@@ -1,0 +1,8 @@
+# Adds the "Sponsor" button to this repo and the profile.
+#
+# Points at the EXISTING Patreon rather than GitHub Sponsors: Patreon is already
+# live (patreon.com/JmoMakesStuff, per untether decisions/0002 and 0004) and needs
+# no identity verification or payout setup on GitHub's side. GitHub Sponsors can be
+# added here later as a second line without removing this one.
+patreon: JmoMakesStuff
+custom: ["https://www.jmomakesstuff.com/"]
