@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.jmomakesstuff.com/">
-  <img src="crow.png" alt="The JMO crow: a crow with a circuit-board wing" width="150">
+  <img src="banner.png" alt="The JMO crow, in neon, punching through rings of color" width="100%">
 </a>
 
 # JMO
